@@ -23,20 +23,6 @@ In this post, I am sharing a free source code for developing an **<a href="https
 - **CSS (Cascading Style Sheets)**  
 - **JS (JavaScript)**  
 
----
 
-## 📥 Source Code and Demo
 
-[Responsive AI Chatbot Using HTML, CSS, and JavaScript](https://jvcodes.com/responsive-ai-chatbot-using-html-css-and-javascript/)  
 
-## Video Preview
-
-[![Watch the video](https://img.youtube.com/vi/ZQlppR_s54Y/0.jpg)](https://www.youtube.com/watch?v=ZQlppR_s54Y)
-
----
-
-## Contributing
-
-Contributions are welcome! If you have suggestions or want to improve the code, feel free to submit an issue or a pull request.
-
-Let’s get started and make your website interactive! 🚀
